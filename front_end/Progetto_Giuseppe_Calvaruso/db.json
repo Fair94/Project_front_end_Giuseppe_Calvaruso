@@ -231,6 +231,14 @@
         "rate": 3.6,
         "count": 145
       }
+    },
+    {
+      "id": "f39b",
+      "title": "PROVA",
+      "description": "PRODOTTO PROVA",
+      "price": "100",
+      "category": "CATEGORIA",
+      "image": "https://placehold.co/600x400/orange/white"
     }
   ],
   "users": [
